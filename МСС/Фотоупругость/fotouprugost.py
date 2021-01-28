@@ -3,7 +3,6 @@ from sys import exit
 import numpy as np
 import pandas as pd
 from matplotlib import pyplot as plt
-from matplotlib import pyplot as plt
 g = 9.8
 a1, a2, h, b = 140, 215, 29.8, 5.7
 
